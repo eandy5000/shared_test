@@ -7,4 +7,4 @@ Started by Andy
 
 Edited by Jake
 
-Karl is init
+Karl is init - now added a server file with a folder
